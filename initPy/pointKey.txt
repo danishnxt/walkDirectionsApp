@@ -1,0 +1,7 @@
+A = DC - Side entrance
+B = Bridge Point 
+C = MC Back Entrance
+D = Middle of the road
+E = M3 Front entrance
+F = Env Pathway
+G = BEHIND M3
